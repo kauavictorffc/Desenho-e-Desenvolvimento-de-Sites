@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Um pouco sobre eu</title>
+	<style>
+		h1{
+			font-family: Arial;
+			font-size:  30pt;
+			color: blue;
+			text-shadow: 2px 2px 2px black;
+
+			}
+
+			h2{
+				font-family: Arial;
+				font-size: 30pt;
+				color: red;
+				text-shadow: 2px 2px 2px black;
+
+				}
+
+				h3{
+					font-family: Arial;
+					font-size:  30pt;
+					color: green;
+					text-shadow: 2 px 2px 2px black;
+
+					}
+
+
+
+
+
+
+
+    </style>
+		
+
+		  
+</head>
+<body>
+
+	<h1> O que gosto de ler </h1>
+
+     Sou uma pessoa reservada porém não sou muito de ler, pois exige algumas virtudes que é paciência, calma. E essas virtudes não tenho, porém já li alguns livros porém não me identifiquei com nenhum deles com os gêneros e as histórias não me atraiu muito, porém um tipo que gosto de ler é sobre futebol que é algo que gosto bastante.
+
+
+
+
+     <h2> O que gosto de comer </h2>
+
+     Na culinária sou uma pessoa que aprecia todo tipo de comida quase, uma pizza caí muito bem, hamburguer, um arroz com piqui tipico de goiano também não dá pra resistir. Poucas coisas que não sou chegado na culinária como ovo, jiló, quiabo. Na culinária é uma das área que mais gosto por que comer é uma coisa que deixa qualquer um feliz.
+
+
+
+
+
+     <h3> O que gosto de fazer nas horas vagas </h3>
+
+     O hobby tenho vários, um deles é jogar futebol, assistir futebol e estudar sobre táticas de futebol, também jogar jogos relacionado a futebol é um ótimo passatempo que gosto bastante, escutar músicas também de vários tipos, como sertanejo, rap, eletrofunk, funk
+</body>
+</html>
